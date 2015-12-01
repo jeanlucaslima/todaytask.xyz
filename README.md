@@ -23,4 +23,3 @@ Please open an issue and/or send your PR.
 ## Authors
 
 - Jean Lucas <jeanleonino@gmail.com>
-- Stefan Stokic <stefan@stefanstokic.com>
